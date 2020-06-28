@@ -1,0 +1,6 @@
+body div img {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    float: left;
+}
